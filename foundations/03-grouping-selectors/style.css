@@ -1,0 +1,9 @@
+.buttonblack,
+.buttonwhite {font-family: Helvetica,"Times New Roman",sans-serif;font-size: 50px;
+}
+
+.buttonblack {background-color: black;color: white;
+}
+
+.buttonwhite {background-color: yellow;
+}
